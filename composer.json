@@ -1,0 +1,15 @@
+{
+    "name": "ihor/hexlet-slim-example",
+    "autoload": {
+        "psr-4": {
+            "Ihor\\HexletSlimExample\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "KutsenkoIhor",
+            "email": "kutsenko3igor@gmail.com"
+        }
+    ],
+    "require": {}
+}
